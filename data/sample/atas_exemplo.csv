@@ -1,0 +1,11 @@
+NumeroAta,Orgao,Fornecedor,Item,ValorUnitario,Quantidade,InicioVigencia,TerminoVigencia
+ARP-2026-0001,Secretaria de Saúde,Farma Nordeste Ltda,Dipirona 500mg cx 10,"1.234,56",120,01/01/2026,31/12/2026
+ARP-2026-0002,Secretaria de Saúde,MedSul Distribuidora,Amoxicilina 500mg cx 21,"18,90",3000,15/02/2026,14/02/2027
+ARP-2026-0003,Hospital Regional,Farma Nordeste Ltda,Soro fisiológico 500ml,"4,35",15000,01/03/2025,28/02/2026
+ARP-2026-0004,Hospital Regional,BioVida Insumos,Luva de procedimento M cx 100,"32,00",800,10/04/2026,09/04/2027
+ARP-2026-0005,Secretaria de Saúde,  medsul   distribuidora ,Omeprazol 20mg cx 28,"9,75",5000,01/07/2026,30/06/2027
+ARP-2026-0006,Hospital da Mulher,Pharma Recife SA,Paracetamol 750mg cx 20,"6,40",7000,01/08/2026,31/07/2027
+ARP-2026-0002,Secretaria de Saúde,MedSul Distribuidora,Amoxicilina 500mg cx 21,"18,90",3200,15/02/2026,14/02/2027
+ARP-2026-0007,Hospital Regional,BioVida Insumos,Seringa 5ml un,"0,48",50000,01/01/2027,31/12/2027
+ARP-2026-0008,Hospital da Mulher,Pharma Recife SA,Insulina NPH 10ml,"27,30",900,01/05/2026,30/04/2027
+ARP-2026-0009,Secretaria de Saúde,Fornecedor Teste,Item com erro,"-5,00",10,01/01/2026,31/12/2026
